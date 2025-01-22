@@ -10,7 +10,7 @@
 <h2 align="center">🔥 Github-Stats/Streaks/Languages 🔥</h2>
 </br>
 
-![zainab Stats](https://github-readme-stats.vercel.app/api?username=Syed-M-Nofel&theme=merko&show_icons=true&hide_border=false&count_private=false) ![Syed-M-Nofel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Syed-M-Nofel&theme=merko&hide_border=false)
+![zainab Stats](https://github-readme-stats.vercel.app/api?username=zainab-ctrl&theme=merko&show_icons=true&hide_border=false&count_private=false) ![zainab Streak](https://github-readme-streak-stats.herokuapp.com/?user=zainab-ctrl&theme=merko&hide_border=false)
 ![Syed-M-Nofel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-M-Nofel&theme=merko&show_icons=true&hide_border=false&layout=compact)
 <hr/>
 
