@@ -2,8 +2,8 @@
 </br>
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,tailwind,windicss,wordpress,js,react,jquery,java,python,&theme=dark "/>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,bootstrap,dotnet,firebase,mongodb,mysql,sqlite,eclipse,visualstudio,vscode,stackoverflow,figma,&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,python,&theme=dark "/>
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,eclipse,visualstudio,vscode,&theme=dark"/>
 </a>
 </div>
 
@@ -11,11 +11,11 @@
 </br>
 
 ![zainab Stats](https://github-readme-stats.vercel.app/api?username=zainab-ctrl&theme=merko&show_icons=true&hide_border=false&count_private=false) ![zainab Streak](https://github-readme-streak-stats.herokuapp.com/?user=zainab-ctrl&theme=merko&hide_border=false)
-![Syed-M-Nofel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-M-Nofel&theme=merko&show_icons=true&hide_border=false&layout=compact)
+![zainab's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainab-ctrl&theme=merko&show_icons=true&hide_border=false&layout=compact)
 <hr/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Syed-M-Nofel&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=zainab-ctrl&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
